@@ -1,0 +1,1 @@
+image_path = "./uploaded_images"
